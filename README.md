@@ -13,7 +13,7 @@
 </div>
 
 <!--
-# 👋 Hi there, I'm Khairul Hasan Rakib
+# 👋 Hi there, I'm Rajin Saleh Prince
 -->
 <h2>⚡ Current Stats ⚡</h2>
 <br>
