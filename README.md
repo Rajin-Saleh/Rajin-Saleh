@@ -22,7 +22,9 @@ Hi, I'm **Rajin Saleh Prince**, a passionate Machine Learner and Tech enthusiast
 ![](https://github-contributor-stats.vercel.app/api?username=Rajin-Saleh&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Rajin-Saleh&icon=3&color=7)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Rajin-Saleh&label=Visitors&color=4&icon=3&pretty=true" />
+</a>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
