@@ -11,6 +11,7 @@ Hi, I'm **Rajin Saleh Prince**, a passionate Machine Learner and Tech enthusiast
 ![](https://github-readme-stats.vercel.app/api?username=Rajin-Saleh&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Rajin-Saleh&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajin-Saleh&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<a href="https://github.com/Rajin-Saleh"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Rajin-Saleh&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Rajin-Saleh&limit=5&theme=dark&combine_all_yearly_contributions=true)
