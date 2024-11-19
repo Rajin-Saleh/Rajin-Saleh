@@ -15,7 +15,7 @@ Hi, I'm **Rajin Saleh Prince**, a passionate Machine Learner and Tech enthusiast
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rajin-Saleh/Rajin-Saleh/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rajin-Saleh/Rajin-Saleh/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Rajin-Saleh/Rajin-Saleh/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Rajin-Saleh/Rajin-Saleh/output/github-snake-dark.svg" />
 </picture>
 
 ### 🔝 Top Contributed Repo
