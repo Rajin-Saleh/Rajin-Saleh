@@ -12,11 +12,17 @@ Hi, I'm **Rajin Saleh Prince**, a passionate Machine Learner and Tech enthusiast
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Rajin-Saleh&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajin-Saleh&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <a href="https://github.com/Rajin-Saleh"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Rajin-Saleh&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rajin-Saleh/Rajin-Saleh/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rajin-Saleh/Rajin-Saleh/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Rajin-Saleh/Rajin-Saleh/output/github-snake.svg" />
+</picture>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Rajin-Saleh&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Rajin-Saleh&icon=3&color=7)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
