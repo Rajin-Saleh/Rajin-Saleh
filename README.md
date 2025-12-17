@@ -1,30 +1,103 @@
-# 💫 About Me:
-Hi, I'm **Rajin Saleh Prince**, a passionate Machine Learner and Tech enthusiast. I believe in creating innovative solutions and constantly learning new things in the ever-evolving world of technology. I enjoy building impactful projects and collaborating with others.<br><br>- 🔭 I’m currently working on various web and AI projects.<br>- 🌱 I’m always learning new skills and exploring different technologies.<br>- 👯 I’m looking to collaborate on **Machine Learning** and **Full-Stack Web Development** projects.<br>- 📫 How to reach me: rajinp752@gmail.com<br><br>## 🛠️ Technologies & Tools<br><br>I work with a variety of technologies, including:<br><br>- **Languages**: Python, C++, Java, Dart<br>- **Backend**: Python (Flask, Django)<br>- **AI/ML**: TensorFlow, Scikit-learn, Keras<br>- **Databases**: MySQL<br>
+<div align="center">
 
+  <!-- WORKING Typing Animation -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=500&color=00FFE1&center=true&vCenter=true&width=500&lines=RAJIN+SALEH+PRINCE;Data+Science+Enthusiast" alt="Typing SVG" />
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/RajinSalehPrince/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/rajin_saleh_prince/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajin-saleh-prince-4573171b7/) 
+  <br>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Linode](https://img.shields.io/badge/linode-00A95C?style=for-the-badge&logo=linode&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Rajin-Saleh&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Rajin-Saleh&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajin-Saleh&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<a href="https://github.com/Rajin-Saleh"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Rajin-Saleh&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rajin-Saleh/Rajin-Saleh/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rajin-Saleh/Rajin-Saleh/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Rajin-Saleh/Rajin-Saleh/output/github-snake-dark.svg" />
-</picture>
+  <!-- Glowing Tagline -->
+  <p>
+    <em>🔮 Transforming raw numbers into crystal-clear insights</em>
+  </p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Rajin-Saleh&limit=5&theme=dark&combine_all_yearly_contributions=true)
+  <br>
 
----
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Rajin-Saleh&label=Visitors&color=4&icon=3&pretty=true" />
-</a>
+  <!-- Working Social Badges -->
+  <a href="mailto:rajinp752@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge" height="35" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/rajin-saleh-prince-4573171b7/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/rajin_saleh_prince/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" height="35" alt="Instagram" />
+  </a>
 
+  <br><br><br>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  <!-- About Me Section -->
+  <h2>💫 About Me</h2>
+  
+  Hi, I'm **Rajin Saleh Prince**, a passionate **Data Science enthusiast** exploring the fascinating world of machine learning and analytics.<br><br>
+  
+  • 🔭 Currently immersed in hands-on learning with real-world datasets<br>
+  • 🌱 Actively mastering data visualization, statistical modeling, and predictive analytics<br>
+  • 👯 Seeking collaborative opportunities in **Data Science** and **Machine Learning** projects<br>
+  • 📫 Reach me anytime: rajinp752@gmail.com
+
+  <br><br>
+
+  <!-- WORKING Tech Stack -->
+  <h2>🧠 Data Science Toolkit</h2>
+  
+  <p>Tools I'm actively mastering for data-driven discovery:</p>
+  
+  <!-- Core Data Science -->
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="35" />
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="35" />
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" height="35" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge" height="35" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge" height="35" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge" height="35" />
+  
+  <br><br>
+  
+  <!-- WORKING Visualization Badges -->
+  <h3>📊 Visualization</h3>
+  <img src="https://img.shields.io/badge/Matplotlib-white?logo=matplotlib&logoColor=black&style=for-the-badge" height="35" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white&style=for-the-badge" height="35" />
+  <img src="https://img.shields.io/badge/Seaborn-3C72B0?logo=seaborn&logoColor=white&style=for-the-badge" height="35" />
+  
+  <br><br>
+  
+  <!-- WORKING Database & Tools Badges -->
+  <h3>🗄️ Database & Tools</h3>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="35" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white&style=for-the-badge" height="35" />
+  <img src="https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white&style=for-the-badge" height="35" />
+
+  <br><br><br>
+
+  <!-- WORKING GitHub Stats -->
+  <h2>📈 My GitHub Analytics</h2>
+  
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rajin-Saleh&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFE1&text_color=c9d1d9&count_private=true&include_all_commits=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajin-Saleh&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFE1&text_color=c9d1d9&layout=compact&langs_count=8" />
+  
+  <br><br>
+  
+
+  <br><br>
+
+  <!-- WORKING Activity Graph -->
+  <h2>🔥 Activity Graph</h2>
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajin-Saleh&theme=react-dark&hide_border=true&bg_color=0D1117&color=00C7FF&line=00FFE1&point=c9d1d9&area=true&hide_progress=true" height="300" alt="Activity Graph" />
+
+  <br><br>
+
+  <!-- WORKING Snake Animation -->
+  <h2>🐍 GitHub Snake</h2>
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rajin-Saleh/Rajin-Saleh/main/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rajin-Saleh/Rajin-Saleh/main/github-contribution-grid-snake.svg" />
+    <img alt="github snake animation" src="https://raw.githubusercontent.com/Rajin-Saleh/Rajin-Saleh/main/github-contribution-grid-snake-dark.svg" height="300" />
+  </picture>
+
+  <br><br>
+
+  <!-- Visitor Counter -->
+  <img src="https://komarev.com/ghpvc/?username=Rajin-Saleh&label=Profile%20views&color=00FFE1&style=flat-square" height="25" alt="Visitor Count" />
+
+</div>
